@@ -1,8 +1,7 @@
 {
   "name": "testing-practice",
   "scripts": {
-    "start": "node index.js",
-    "test": "jest test.js"
+    "test": "jest"
   },
   "devDependencies": {
     "jest": "^27.5.1"
