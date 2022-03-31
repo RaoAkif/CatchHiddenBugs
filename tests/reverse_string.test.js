@@ -1,4 +1,4 @@
-const reverseString = require('../src/reverse-string');
+const reverseString = require('../src/reverse_string');
 
 describe('reverseString', () => {
   it('reverses a string', () => {

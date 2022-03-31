@@ -1,4 +1,4 @@
-const stringLength = require('../src/string-length');
+const stringLength = require('../src/string_length');
 
 describe('stringLength', () => {
   it('returns a string character count', () => {
